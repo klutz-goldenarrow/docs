@@ -75,7 +75,7 @@ Merges provided object with an object at the path (as described [here](https://w
 
 ## Optional flag
 
-Sometimes, you might want to alter assets which presence is not known in advance. Luckily, since [0.78](https://voxeltycoon.xyz/changelog#0.78), each command supports the new `Optional` flag. When set to `true`, in case the target asset was not found, a command will be just skipped without failing.
+Sometimes, you might want to alter assets which presence is not known in advance. Luckily, since [0.78](https://voxeltycoon.xyz/changelog#0.78), each command supports the new `Hidden` flag. When set to `true`, in case the target asset was not found, a command will be just skipped without failing.
 
 ## Debugging
 
